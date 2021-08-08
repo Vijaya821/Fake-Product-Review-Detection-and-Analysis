@@ -20,7 +20,6 @@ Two additional attributes were generated through data aggregation and python mod
 
 #### Overview of final dataset
 Total rows: 7652
-To download dataset: https://github.com/dindatisi/MSING055_Amazon_Review/
 Columns:
 - url: Scraped url
 - review_bold: Title of the review
