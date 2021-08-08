@@ -11,8 +11,7 @@ The purpose of this project is to identifiy the fake reviews and reviewers by pe
 The sections below will briefly explain the steps and results.
 
 ### Data Collection
-We scraped data from Amazon's website by adopting snowball method. The process is summarized in the figure below.
-![Alt text](https://lh6.googleusercontent.com/s1VfNvgrKoC3DCCqfGruf_5ln49LQBbqKuymrHEd9gc3Z9MoZhtnVX5zHePoAGjsOtOHbneOO3AMbQ=w1440-h731-rw)
+We scraped data from Amazon's website by adopting snowball method.
 
 Two additional attributes were generated through data aggregation and python module:
 - most_rev: highest number of reviews made in a day. This help us to identify if user made a very high number of reviews in the same day. 
